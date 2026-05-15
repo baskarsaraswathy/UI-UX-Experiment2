@@ -30,4 +30,4 @@ Interaction behaviors across both mobile and web layouts are designed with user-
 
 ## Result:
 
-Designing a Basic Mobile and Web Layout for an Existing Case Study is successfully completed
+Designing a Basic Mobile and Web Layout for an Existing Case Study is successfully completed.
